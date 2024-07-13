@@ -1,3 +1,5 @@
-# federalist_papers_scrape
-## Simple web scrape of the Federalist Papers. Functions for cleaning written in Python. 
-#### I was planning on doing an EDA of who of the three authors of the Federalist Papers had the widest vocabulary but I moved onto other projects. 
+# Constitutional NLP
+This is my attempt at cleaning and eventually doing things with consequential legal texts from the United States. 
+All NLP begins with cleaning text. Cleaning Supreme Court decisions poses unique challenges. 
+For one, the references to other cases, laws, and statutes are embedded within the text itself. At the moment, I'm
+trying to figure out the best way to excise those references from the body of the text. 
